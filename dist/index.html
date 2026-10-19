@@ -393,6 +393,7 @@
     }
     /* celular: alvos de toque de 44px e título sem o deslocamento do desktop */
     @media (max-width:760px) {
+      .hero::after { inset:0; width:auto; height:auto; }
       .nav-cta { min-height:44px; }
       .panel input, .panel textarea { min-height:44px; }
       .expertise-intro h2 { transform:none; font-size:clamp(2.3rem,9vw,3.7rem); }
