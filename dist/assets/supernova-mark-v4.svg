@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-labelledby="title desc">
-  <title id="title">SuperNova Engenharia</title><desc id="desc">Uma supernova em expansão, com órbitas técnicas e um núcleo luminoso.</desc>
-  <g fill="none" stroke="#E7C177" stroke-linecap="round"><path stroke-width="4.5" d="M33 104A63 63 0 0 1 126 37"/><path stroke-width="4.5" d="M136 51a63 63 0 0 1-82 93"/><path stroke-width="1.8" opacity=".82" d="M22 90h41m54 0h41M90 22v40m0 56v40M42 42l29 29m38 38 29 29M138 42l-29 29M71 109l-29 29"/><path stroke-width="1.4" opacity=".62" d="m20 126 52-24m36-18 52-24M20 54l52 24m36 18 52 24M54 20l24 52m18 36 24 52M126 20l-24 52m-18 36-24 52"/></g>
-  <circle cx="90" cy="90" r="26" fill="#E7C177"/><path fill="#102C2A" d="m90 55 8.2 26.8L125 90l-26.8 8.2L90 125l-8.2-26.8L55 90l26.8-8.2L90 55Z"/><circle cx="90" cy="90" r="5.5" fill="#E7C177"/><circle cx="28" cy="76" r="2.5" fill="#E7C177"/><circle cx="152" cy="105" r="2.5" fill="#E7C177"/>
-</svg>

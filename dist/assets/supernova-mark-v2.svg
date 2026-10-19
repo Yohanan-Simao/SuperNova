@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-labelledby="title desc">
-  <title id="title">SuperNova Engenharia</title>
-  <desc id="desc">Monograma estrutural da SuperNova.</desc>
-  <rect x="12" y="12" width="156" height="156" rx="18" fill="#E4EEEA"/>
-  <path d="M49 132V48h21l40 55V48h21v84h-21L70 77v55H49Z" fill="#102C2A"/>
-  <path d="M114 45h21v21h-21z" fill="#D76E51"/>
-  <path d="M45 114h21v21H45z" fill="#B6E1D1"/>
-</svg>
